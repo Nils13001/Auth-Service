@@ -12,6 +12,6 @@
       Replace with real changes in MSA S02.
     -->
 
-    <include file="scripts/V1-Initial-DDL.sql"/>
+    <include file="db/changelog/scripts/V1-Initial-DDL-User-Table.sql"/>
 
 </databaseChangeLog>
